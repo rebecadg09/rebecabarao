@@ -1,1 +1,9 @@
-rebeca davila garcia batata o ngrnhdsbnhbndbudguysfvb
+@import url("style/header.css");
+.root{
+     --cor-de-fundo: #ebecee;
+     --branco: #FFFFFF;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
