@@ -8,13 +8,11 @@
 .banner__titulo{
     font-size: 18px;
     font-weight: 700;
-    text-align: center;
 }
 
 .banner__texto{
     font-weight: 500;
     padding: 1em;
-    text-align: center;
 }
 
 .banner__pesquisa{
@@ -26,7 +24,7 @@
     width: 100%;
 }
 
-.banner__pesquisa ::placeholder {
+.banner__pesquisa ::placeholder{
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
